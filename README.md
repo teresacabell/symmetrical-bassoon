@@ -4,7 +4,7 @@
 An app that helps you track your money at any time, with or without a data/internet connection, so that the budget tracker will remain accurate.
 
 ## App Screenshot
-(images/tracker.png)
+![](images/tracker.png)
 
 ### App Deployed to Heroku 
 https://secure-eyrie-73081.herokuapp.com/
